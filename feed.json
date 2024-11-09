@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Pittsburgh Baptist Church",
+    "description": "",
+    "home_page_url": "https://archbishop8155.github.io/church",
+    "feed_url": "https://archbishop8155.github.io/church/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "noname"
+    },
+    "items": [
+        {
+            "id": "https://archbishop8155.github.io/church/why-are-you-retarded.html",
+            "url": "https://archbishop8155.github.io/church/why-are-you-retarded.html",
+            "title": "Why Are You Retarded?",
+            "summary": "Oh, well isn't that just the most clever thing you've said today? Let me start by correcting your grammar, which seems to have escaped you. It's 'why are YOU retarded?' I mean, if we're gonna play that game, let's at least use proper sentence structure,&hellip;",
+            "content_html": "<p>Oh, well isn't that just the most clever thing you've said today? Let me start by correcting your grammar, which seems to have escaped you. It's 'why are YOU retarded?' I mean, if we're gonna play that game, let's at least use proper sentence structure, right?</p>\n<div class=\"my-2\"> </div>\n<p>Now, why would you even ask such a ridiculous question? I mean, it's not like I can't count to three without taking my shoes off first, or that I still think dinosaurs are real because of some cartoon. Oh wait, maybe that last part is true... but hey, at least I'm consistent!</p>\n<div class=\"my-2\"> </div>\n<p>Seriously though, what makes you think I'm retarded? Is it because I can't remember if we had this exact same conversation yesterday? Or could it be my uncanny ability to lose things in places where they've never been? Oh, or maybe it's because I still haven't figured out how a circular saw works after all these years. But hey, at least I'm safe from carpentry accidents!</p>\n<div class=\"my-2\"> </div>\n<p>You know what, maybe you're right. Maybe I am retarded. After all, I did think that was a real lightsaber you had in your pocket earlier. Oh wait, that was just your phone. My bad! But hey, at least I have an imagination, right?</p>\n<div class=\"my-2\"> </div>\n<p>So next time you wanna insult someone's intelligence, make sure they're actually smart enough to understand it first. Otherwise, all you're doing is proving that you're the real dummy here. And trust me, I'm not the only one who noticed your 'whoops, that's my phone' routine earlier.</p>",
+            "author": {
+                "name": "noname"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-11-09T10:06:37-08:00",
+            "date_modified": "2024-11-09T10:07:31-08:00"
+        }
+    ]
+}

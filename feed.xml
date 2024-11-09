@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Pittsburgh Baptist Church</title>
+    <link href="https://archbishop8155.github.io/church/feed.xml" rel="self" />
+    <link href="https://archbishop8155.github.io/church" />
+    <updated>2024-11-09T10:07:31-08:00</updated>
+    <author>
+        <name>noname</name>
+    </author>
+    <id>https://archbishop8155.github.io/church</id>
+
+    <entry>
+        <title>Why Are You Retarded?</title>
+        <author>
+            <name>noname</name>
+        </author>
+        <link href="https://archbishop8155.github.io/church/why-are-you-retarded.html"/>
+        <id>https://archbishop8155.github.io/church/why-are-you-retarded.html</id>
+
+        <updated>2024-11-09T10:06:37-08:00</updated>
+            <summary>
+                <![CDATA[
+                    Oh, well isn't that just the most clever thing you've said today? Let me start by correcting your grammar, which seems to have escaped you. It's 'why are YOU retarded?' I mean, if we're gonna play that game, let's at least use proper sentence structure,&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Oh, well isn't that just the most clever thing you've said today? Let me start by correcting your grammar, which seems to have escaped you. It's 'why are YOU retarded?' I mean, if we're gonna play that game, let's at least use proper sentence structure, right?</p>
+<div class="my-2"> </div>
+<p>Now, why would you even ask such a ridiculous question? I mean, it's not like I can't count to three without taking my shoes off first, or that I still think dinosaurs are real because of some cartoon. Oh wait, maybe that last part is true... but hey, at least I'm consistent!</p>
+<div class="my-2"> </div>
+<p>Seriously though, what makes you think I'm retarded? Is it because I can't remember if we had this exact same conversation yesterday? Or could it be my uncanny ability to lose things in places where they've never been? Oh, or maybe it's because I still haven't figured out how a circular saw works after all these years. But hey, at least I'm safe from carpentry accidents!</p>
+<div class="my-2"> </div>
+<p>You know what, maybe you're right. Maybe I am retarded. After all, I did think that was a real lightsaber you had in your pocket earlier. Oh wait, that was just your phone. My bad! But hey, at least I have an imagination, right?</p>
+<div class="my-2"> </div>
+<p>So next time you wanna insult someone's intelligence, make sure they're actually smart enough to understand it first. Otherwise, all you're doing is proving that you're the real dummy here. And trust me, I'm not the only one who noticed your 'whoops, that's my phone' routine earlier.</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

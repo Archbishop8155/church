@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://archbishop8155.github.io/church/sitemap.xml
